@@ -12,8 +12,8 @@
 
 print("I will now count my chickens:")
 
-print("hens"), 25 + 30 / 6
-print("Rosters"), 100 - 25 * 3 % 4
+print("hens"), (25 + 30 / 6)
+print("Rosters"), (100 - 25 * 3 % 4)
 
 print("Now I will count the eggs:")
 
